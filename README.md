@@ -1,3 +1,3 @@
-# landing-page
-Project: Landing Page
-Creating a landing-page from scratch from a design provided (see landing-page-01.jpg)
+This is a sample of a landing page and the second exercise following The Odin Project course.
+
+Practising foundations of HTML and CSS.
